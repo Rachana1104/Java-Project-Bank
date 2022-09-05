@@ -1,4 +1,4 @@
-<h1>BANKING SYSTEM using JAVA SWINGS & MYSQL Database</h1>
+BANKING SYSTEM using JAVA SWINGS & MYSQL Database
 
 Project Modules: There are 5 modules in this Banking System project.
 1- Login page and Register Page
